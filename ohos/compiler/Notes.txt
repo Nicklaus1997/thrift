@@ -1,0 +1,21 @@
+Linux Usage 
+
+--
+1. Keep the compiler and thrift.sh in same folder
+2. run the thrift.sh with input .thrift file
+3. find the JS and OpenHarmony folder for corresponding files
+
+eg  ./thrift.sh  tutorial.thrift
+
+
+Windows usage 
+
+1.Open powershell 
+2.open PowerShell ISE ( execute PowerShell ISE in poweshell prompt)
+3.from below command line  go to the folder where thrift.ps1 and thrift comiler .exe present
+4. run .\thrift.ps1 eg.thrift
+5. find the JS and OpenHarmony folder for corresponding files
+
+compiler exe : 
+
+https://www.apache.org/dyn/closer.cgi?path=/thrift/0.15.0/thrift-0.15.0.exe

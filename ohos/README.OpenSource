@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "thrift",
+        "License": "Apache-2.0",
+        "License File": "LICENSE",
+        "Version Number": "0.16.0",
+        "Owner" : "xiafeng@huawei.com",
+        "Upstream URL": "https://github.com/apache/thrift",
+        "Description": "Apache Thrift"
+    }
+]

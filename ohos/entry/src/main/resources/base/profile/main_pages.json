@@ -1,0 +1,12 @@
+{
+  "src": [
+    "pages/index",
+    "pages/collections",
+    "pages/double",
+    "pages/i8",
+    "pages/i16",
+    "pages/i32",
+    "pages/i64",
+    "pages/other"
+  ]
+}
